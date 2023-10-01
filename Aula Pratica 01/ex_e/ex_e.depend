@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691028085 source:c:\users\lucas\documents\aed\aula pratica 01\ex_e\main.c
+	<stdio.h>
+	<stdlib.h>
+
